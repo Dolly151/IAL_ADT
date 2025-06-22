@@ -1,4 +1,4 @@
-# IAL_ADT
+# IAL úloha
 IAL - Algoritmy, Úloha - implementace základních abstraktních datových typů
 
 C201: jednosměrně vázaný lineární seznam  
